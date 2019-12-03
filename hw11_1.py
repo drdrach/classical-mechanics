@@ -2,7 +2,7 @@
 #  hw4_2.py
 #
 #
-#  Created by Jim Drachenberg on 9/30/19.
+#  Created by Jim Drachenberg on 12/3/19.
 #
 
 from scipy.integrate import odeint
